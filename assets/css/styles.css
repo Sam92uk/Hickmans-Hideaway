@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Sans&display=swap');
+
+header {
+    margin: 0;
+    padding: 0;
+}
+
+#main-logo {
+   width: auto;
+   height: 200px;
+}
+
+.translate-middle {
+    margin-bottom: -1rem;
+}
