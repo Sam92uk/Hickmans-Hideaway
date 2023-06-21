@@ -11,24 +11,32 @@
         <title>Hickman's Hideaway</title>
 </head>
 <body>
+
+    <!-- Logo & Nav Bar -->
     <header>
         <nav class="navbar navbar-expand-sm">
             <a href="index.html" class="navbar-brand">
                 <img src="assets/images/hickman's-hideaway-logo.png" alt="hickmans-hideaway-logo" id="main-logo" >
             </a>
 
-            <ul class="navbar-nav mr-auto">
-                <li class="active nav-item">
-                    <a href="index.html" class="nav-link"><span>Home</span></a>
-                </li>
-                <li class="active nav-item">
-                    <a href="#" class="nav-link"><span>Menu</span></a>
-                </li>
-                <li class="active nav-item">
-                    <a href="#" class="nav-link"><span>Contact</span></a>
-                </li>
-            </ul>
-            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"><i class="fa-solid fa-bars"></i></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="active nav-item">
+                        <a href="index.html" class="nav-link">Home<span class="sr-only"></span></a>
+                    </li>
+                    <li class="active nav-item">
+                        <a href="#" class="nav-link"><span>Menu</span></a>
+                    </li>
+                    <li class="active nav-item">
+                        <a href="#" class="nav-link"><span>Contact</span></a>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </header>
     <article>

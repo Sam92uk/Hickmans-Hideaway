@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Sans&display=swap');
 
+/* Colors */
 .navbar {
     background-color: #7d8491;
 }
 
+
+/* Nav Bar */
 .navbar-brand {
     margin-right: 0;
 }
@@ -26,3 +29,4 @@
     width: auto;
     height: 200px;
 }
+
