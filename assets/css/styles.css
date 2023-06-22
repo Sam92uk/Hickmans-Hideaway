@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Sans&display=swap');
 
 /* ------------------------------------------------Colors */
-.navbar {
+body {
     background-color: #7d8491;
 }
-
 
 /* -----------------------------------------------Nav Bar */
 
@@ -17,8 +16,9 @@
     text-decoration: none;
     font-weight: 600;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     letter-spacing: 2px;
+    margin-right: 10px;
 }
 
 .nav-link:hover {
@@ -34,14 +34,25 @@ button {
     margin-right: 15px;
 }
 
-#main-logo {
-    width: auto;
-    height: 200px;
+.logo {
+    font-family: 'Courgette', cursive;
+    margin:0 15px 0 15px;
+    font-size: 35px;
+    color: #030567;
 }
 
 /* ------------------------------------------------Article */
 
-.three-reasons {
+.home-header {
+    margin-top: 10px;
     text-align: center;
-    
+    color: #030567;
+    font-family: 'Courgette', cursive;
+    font-weight: 400;
+}
+
+.welcome {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #030567;
 }
