@@ -1,10 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Sans&display=swap');
 
 /* ------------------------------------------------Colors */
-body {
+header {
     background-color: #7d8491;
 }
 
+footer {
+    background-color: #030567;
+}
+
+.footer-times {
+    color: #7d8491;
+}
 /* -----------------------------------------------Nav Bar */
 
 .navbar-brand {
@@ -56,4 +63,28 @@ button {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
     color: #030567;
+}
+
+/* ------------------------------------------------Footer */
+
+.footer-times {
+    text-align: center;
+}
+
+.footer-times > h3 {
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    margin-bottom: -8px;
+    padding-top: 5px;
+}
+
+.footer-times > p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.footer-times > hr {
+    margin-bottom: 5px;
+    height: 5px;
 }
