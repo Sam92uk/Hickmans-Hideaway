@@ -93,8 +93,8 @@ button {
     margin-bottom: -2px;
 }
 
-footer {
-    position: fixed;
-    min-height: 120px;
-    margin: 0;
+.social-links {
+    text-decoration: none;
+    color: #7d8491;
+    text-align: center;
 }
