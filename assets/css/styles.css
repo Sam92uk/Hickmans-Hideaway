@@ -77,6 +77,11 @@ button {
 }
 
 /* ------------------------------------------------Footer */
+footer {
+    min-height: 120px;
+    margin: 0;
+}
+
 .footer-wrapper {
     text-align: center;
 }
