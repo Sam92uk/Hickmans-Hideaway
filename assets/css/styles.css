@@ -77,6 +77,9 @@ button {
 }
 
 /* ------------------------------------------------Footer */
+.footer-wrapper {
+    text-align: center;
+}
 
 .footer-wrapper > h3 {
     font-family: 'Courgette', cursive;
@@ -94,14 +97,18 @@ button {
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     padding: 12px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 25px;
     line-height: 7px;
     text-align: center;
     color: #7d8491;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 .social-links li a i:hover {
