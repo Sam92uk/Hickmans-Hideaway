@@ -78,12 +78,13 @@ article {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
     color: #030567;
+    padding-top: 20px;
 }
 
 /* ------------------------------------------------Footer */
+
 footer {
-    min-height: 120px;
-    margin: 0;
+    max-height: 125px;
 }
 
 .footer-wrapper {
@@ -93,7 +94,7 @@ footer {
 .footer-wrapper > h3 {
     font-family: 'Courgette', cursive;
     font-size: 20px;
-    padding-top: 5px;
+    padding:5px 0 10px 0;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -109,6 +110,7 @@ footer {
     width: 40px;
     height: 40px;
     padding: 12px 0;
+    margin-top: 15px;
     border-radius: 50%;
     font-size: 25px;
     line-height: 7px;
