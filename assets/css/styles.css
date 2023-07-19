@@ -189,8 +189,18 @@ footer {
     }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 850px) {
     .column {
         width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .col-2 {
+        display: none;
+    }
+
+    .column {
+        width: 100%;
     }
 }
