@@ -152,10 +152,20 @@ footer {
 
 /* ------------------------------------------------Menu Page Article */
 .menu-img {
-    width: auto;
-    height: 320px;
+    max-width: 100%;
+    max-height: 100%;
     border: #fbfef9 2px solid;
-    margin: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.col-2 {
+    padding:25px;
 }
 
 .menu-header {
@@ -171,4 +181,16 @@ footer {
     font-family: 'Josefin Sans', sans-serif;
     color: #030567;
     margin: 15px;
+}
+
+@media screen and (max-width: 1250px) {
+    .menu-img {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .column {
+        width: 50%;
+    }
 }
