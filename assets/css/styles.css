@@ -27,6 +27,10 @@ h6 {
     text-transform: uppercase;
 }
 
+.underline {
+    text-decoration: underline 2px #030567;
+}
+
 .active {
     text-decoration: underline 2px #030567;
 }
@@ -149,6 +153,22 @@ footer {
 /* ------------------------------------------------Menu Page Article */
 .menu-img {
     width: auto;
-    height: 300px;
+    height: 320px;
     border: #fbfef9 2px solid;
+    margin: 25px;
+}
+
+.menu-header {
+    text-align: center;
+    color: #030567;
+    font-family: 'Courgette', cursive;
+    font-weight: 400;
+    margin: 15px;
+}
+
+.menu-description {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #030567;
+    margin: 15px;
 }
