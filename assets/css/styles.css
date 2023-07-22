@@ -176,6 +176,14 @@ footer {
     margin: 15px;
 }
 
+.menu-items {
+    text-align: center;
+    color: #030567;
+    font-family: 'Courgette', cursive;
+    font-weight: 200;
+    margin: 15px;
+}
+
 .menu-description {
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
