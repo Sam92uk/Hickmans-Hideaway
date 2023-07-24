@@ -168,7 +168,7 @@ footer {
     padding:25px;
 }
 
-.menu-header {
+.header {
     text-align: center;
     color: #030567;
     font-family: 'Courgette', cursive;
@@ -212,3 +212,5 @@ footer {
         width: 100%;
     }
 }
+
+/* ------------------------------------------------Contact Page Article */
