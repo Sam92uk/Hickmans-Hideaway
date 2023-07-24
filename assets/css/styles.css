@@ -214,3 +214,21 @@ footer {
 }
 
 /* ------------------------------------------------Contact Page Article */
+form {
+    margin: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #030567;
+    font-weight: bold;
+}
+
+.form-row {
+    display: flex;
+}
+
+.form-border {
+    border: #fbfef9 solid 2px;
+}
+
+.form-group {
+    margin: 0 0 7px 5px;
+}
