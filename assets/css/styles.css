@@ -214,10 +214,6 @@ footer {
 }
 
 /* ------------------------------------------------Contact Page Article */
-.contact-article {
-    padding-bottom: 600px;
-}
-
 form {
     margin: 10px;
     font-family: 'Josefin Sans', sans-serif;
@@ -238,11 +234,3 @@ form {
     margin: 0 0 7px 5px;
 }
 
-.map {
-    max-height: 460px;
-}
-
-.booking-table {
-    width: 100%;
-    height: auto;
-}
