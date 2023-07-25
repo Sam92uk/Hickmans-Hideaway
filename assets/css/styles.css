@@ -198,7 +198,7 @@ footer {
 }
 
 @media screen and (max-width: 850px) {
-    .column {
+    .menu-column {
         width: 50%;
     }
 }
@@ -208,7 +208,7 @@ footer {
         display: none;
     }
 
-    .column {
+    .menu-column {
         width: 100%;
     }
 }
@@ -234,3 +234,12 @@ form {
     margin: 0 0 7px 5px;
 }
 
+.btn {
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 715px) {
+        .contact-column {
+        width: 100%;
+    }
+}
