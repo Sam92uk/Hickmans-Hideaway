@@ -242,4 +242,8 @@ form {
         .contact-column {
         width: 100%;
     }
+
+    form {
+        margin-bottom: 50px;
+    }
 }
