@@ -70,7 +70,7 @@ button {
     color: #030567;
 }
 
-/* ------------------------------------------------Home Page Article */
+/* ------------------------------------------------Home Page  */
 article {
     padding-bottom: 125px;
 }
@@ -150,7 +150,7 @@ footer {
     }
 }
 
-/* ------------------------------------------------Menu Page Article */
+/* ------------------------------------------------Menu Page  */
 .menu-img {
     max-width: 100%;
     max-height: 100%;
@@ -213,7 +213,7 @@ footer {
     }
 }
 
-/* ------------------------------------------------Contact Page Article */
+/* ------------------------------------------------Contact Page  */
 form {
     margin: 10px;
     font-family: 'Josefin Sans', sans-serif;
@@ -246,4 +246,11 @@ form {
     form {
         margin-bottom: 50px;
     }
+}
+
+/* ------------------------------------------------Thank You Page */
+.form-submission {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #030567;
 }
