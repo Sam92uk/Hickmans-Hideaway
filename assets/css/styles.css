@@ -35,6 +35,11 @@ h6 {
     text-decoration: underline 2px #030567;
 }
 
+.text {
+    color: #030567;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
 /* -----------------------------------------------Nav Bar */
 .navbar-brand {
     margin-right: 0;
@@ -248,9 +253,3 @@ form {
     }
 }
 
-/* ------------------------------------------------Thank You Page */
-.form-submission {
-    text-align: center;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #030567;
-}
