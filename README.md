@@ -27,3 +27,30 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
 + [Credits](#credits "Credits")
   + [Content](#content "Content")
   + [Media](#media "Media")
+
+## UX
+
+### Site Purpose:
+To introduce visitors to our restaurant, showcase our menu, share our story, and provide a seamless online reservation experience.
+
+### Site Goal:
+To update our current users with new menu changes, the location of the restaurant and allow reservations to be made online. 
+
+### Audience:
+Anyone looking for a relaxing meal by the sea who enjoy good food with locally sourced, fresh ingredients. Our target market are women & men ages 20 - 45.
+
+### Communication:
+Each page has a clear design with the information easily available to anyone who visits the site. Each page in the navbar is underlined so that the user knows which page they are currently on. The address & opening times are available in the footer of each page and when in mobile view they become available in the contacts page. 
+
+### Current User Goals:
+- To see the current menu available.
+- To allow easy booking online.
+
+### New User Goal:
+- Allow easy navigation through the website & clearly understand the information provided.
+- For all information to be up to date & relevant.
+
+## Design
+
+### Colour Scheme:
+This colour palette was used with the thought of colours to match the seaside without feeling overwhelming. The main background & header colour is slate gray with federal blue text which mix well and do not overwhelm the user
