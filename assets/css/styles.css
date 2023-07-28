@@ -76,6 +76,12 @@ button {
 }
 
 /* ------------------------------------------------Home Page  */
+.home-hero-image {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
 article {
     padding-bottom: 125px;
 }
@@ -156,6 +162,12 @@ footer {
 }
 
 /* ------------------------------------------------Menu Page  */
+.menu-hero-image {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
 .menu-img {
     max-width: 100%;
     max-height: 100%;
@@ -219,6 +231,13 @@ footer {
 }
 
 /* ------------------------------------------------Contact Page  */
+.contact-hero-image {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center bottom;
+}
+
 form {
     margin: 10px;
     font-family: 'Josefin Sans', sans-serif;
