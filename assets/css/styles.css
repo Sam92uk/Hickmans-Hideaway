@@ -14,6 +14,10 @@ footer {
 }
 
 /* ------------------------------------------------Special Margins, Text, paddings */
+html, body {
+    overflow-x: hidden;
+}
+
 h1,
 h2,
 h3,
@@ -69,7 +73,7 @@ button {
 }
 
 .logo {
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     margin: 0 15px 0 15px;
     font-size: 35px;
     color: #030567;
@@ -90,7 +94,7 @@ article {
     margin-top: 10px;
     text-align: center;
     color: #030567;
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     font-weight: 400;
 }
 
@@ -112,7 +116,7 @@ footer {
 }
 
 .footer-wrapper>h3 {
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     font-size: 20px;
     padding: 5px 0 5px 0;
     font-weight: bold;
@@ -188,7 +192,7 @@ footer {
 .header {
     text-align: center;
     color: #030567;
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     font-weight: 400;
     margin: 15px;
 }
@@ -196,7 +200,7 @@ footer {
 .menu-items {
     text-align: center;
     color: #030567;
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     font-weight: 200;
     margin: 15px;
 }
@@ -232,7 +236,7 @@ footer {
 
 /* ------------------------------------------------Contact Page  */
 .contact-hero-image {
-    height: 350px;
+    height: 375px;
     width: 100%;
     object-fit: cover;
     object-position: center bottom;
@@ -272,7 +276,7 @@ form {
 }
 
 .time-address>h3 {
-    font-family: 'Courgette', cursive;
+    font-family: 'Courgette', cursive, sans-serif;
     font-size: 20px;
     padding: 5px 0 5px 0;
     font-weight: bold;

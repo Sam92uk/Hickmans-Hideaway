@@ -7,6 +7,7 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
 ## Table of Contents
 + [UX](#ux "UX")
   + [Site Purpose](#site-purpose "Site Purpose")
+  + [Site Goal](#site-goal "Site Goal)
   + [Audience](#audience "Audience")
   + [Communication](#communication "Communication")
   + [Current User Goals](#current-user-goals "Current User Goals")
@@ -53,4 +54,8 @@ Each page has a clear design with the information easily available to anyone who
 ## Design
 
 ### Colour Scheme:
-This colour palette was used with the thought of colours to match the seaside without feeling overwhelming. The main background & header colour is slate gray with federal blue text which mix well and do not overwhelm the user
+This colour palette was used with the thought of colours to match the seaside without feeling overwhelming. The main background & header colour is slate gray with federal blue text which mix well and do not overwhelm the user. The use of a subtle baby powder white was used when hovering over the nav links in the header and social links in the footer.
+![Colour Palette](/assets/images/read-me/colour-palette.png)
+
+### Typography:
+Courgette Cursive was used for the main logo and the headings on each of the pages as it is a stylish and decorative font that has visually appealing qualities. Josefin Sans Normal is used for all over text as it is simple and delicate along with being easy to read.
