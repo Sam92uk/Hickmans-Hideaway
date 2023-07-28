@@ -1,39 +1,56 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Hickman's Hideaway
+Hickman's Hideaway is a fictional family-owned restaurant located in the heart of a picturesque seaside town. Our mission is to provide a warm and inviting atmosphere where guests can savor delicious dishes made from locally sourced, fresh ingredients.
+The purpose of this website is to introduce visitors to our restaurant, showcase our menu, share our story, and provide a seamless online reservation experience.
 
-Welcome,
+The Hickman's Hideaway site is currently live, the link can be found [Here](https://sam92uk.github.io/Hickmans-Hideaway/contact.html)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
++ [UX](#ux "UX")
+  + [Site Purpose](#site-purpose "Site Purpose")
+  + [Audience](#audience "Audience")
+  + [Communication](#communication "Communication")
+  + [Current User Goals](#current-user-goals "Current User Goals")
+  + [New User Goals](#new-user-goals "New User Goals")
++ [Design](#design "Design")
+  + [Colour Scheme](#colour-scheme "Colour Scheme")
+  + [Typography](#typography "Typography")
+  + [Imagery](#imagery "Imagery")
++ [Features](#features "Features")
+  + [Existing Features](#existing-features "Existing Features")
++ [Testing](#testing "Testing")
+  + [Validator Testing](#validator-testing "Validator Testing")
+  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
++ [Technologies Used](#technologies-used "Technologies Used")
+  + [Main Languages Used](#main-languages-used "Main Languages Used")
+  + [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used "Frameworks, Libraries & Programs Used")
++ [Deployment](#deployment "Deployment")
++ [Credits](#credits "Credits")
+  + [Content](#content "Content")
+  + [Media](#media "Media")
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## UX
 
-## Codeanywhere Reminders
+### Site Purpose:
+To introduce visitors to our restaurant, showcase our menu, share our story, and provide a seamless online reservation experience.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Site Goal:
+To update our current users with new menu changes, the location of the restaurant and allow reservations to be made online. 
 
-`python3 -m http.server`
+### Audience:
+Anyone looking for a relaxing meal by the sea who enjoy good food with locally sourced, fresh ingredients. Our target market are women & men ages 20 - 45.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Communication:
+Each page has a clear design with the information easily available to anyone who visits the site. Each page in the navbar is underlined so that the user knows which page they are currently on. The address & opening times are available in the footer of each page and when in mobile view they become available in the contacts page. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Current User Goals:
+- To see the current menu available.
+- To allow easy booking online.
 
-`http_server`
+### New User Goal:
+- Allow easy navigation through the website & clearly understand the information provided.
+- For all information to be up to date & relevant.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Design
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+### Colour Scheme:
+This colour palette was used with the thought of colours to match the seaside without feeling overwhelming. The main background & header colour is slate gray with federal blue text which mix well and do not overwhelm the user
