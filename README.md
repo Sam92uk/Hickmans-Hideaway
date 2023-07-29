@@ -7,7 +7,7 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
 ## Table of Contents
 + [UX](#ux "UX")
   + [Site Purpose](#site-purpose "Site Purpose")
-  + [Site Goal](#site-goal "Site Goal)
+  + [Site Goal](#site-goal "Site Goal")
   + [Audience](#audience "Audience")
   + [Communication](#communication "Communication")
   + [Current User Goals](#current-user-goals "Current User Goals")
@@ -18,6 +18,7 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
   + [Imagery](#imagery "Imagery")
 + [Features](#features "Features")
   + [Existing Features](#existing-features "Existing Features")
+  + [Future Features](#future-features "Future Features")
 + [Testing](#testing "Testing")
   + [Validator Testing](#validator-testing "Validator Testing")
   + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
@@ -47,7 +48,7 @@ Each page has a clear design with the information easily available to anyone who
 - To see the current menu available.
 - To allow easy booking online.
 
-### New User Goal:
+### New User Goals:
 - Allow easy navigation through the website & clearly understand the information provided.
 - For all information to be up to date & relevant.
 
@@ -89,3 +90,19 @@ The hero image is the first thing the user will see and it gives an idea of the 
 Below the menu hero image is the menu list with the main meals, each meal has an image for a visual representation along with a detailed description of what to expect.
 
 ![Menu Items](/assets/images/read-me/menu-items.png)
+
+#### Contact Page
+
+
+#### Footer
+
+
+### Future Features
+
+
+## Testing
+A horizontal scroll bar was appearing on the Menu and Contact page after changing hero images to fill the width of the screen and object-fit. After changing multiple attributes in the styles.css file i found that the div was spilling over slightly causing it to push out of the screen to the right. I fixed this issue by adding overflow-x:hidden; to the HTML and Body.
+
+The form and map on the contact page appeared to be overlapping when in mobile view after making some changes to try and fix the issue with the horizontal scroll bar. This was resolved by adding the contact-column class back into the divs which was removed to see if that was causing the scroll bar issue.
+
+### Validator Testing
