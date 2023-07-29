@@ -106,3 +106,12 @@ A horizontal scroll bar was appearing on the Menu and Contact page after changin
 The form and map on the contact page appeared to be overlapping when in mobile view after making some changes to try and fix the issue with the horizontal scroll bar. This was resolved by adding the contact-column class back into the divs which was removed to see if that was causing the scroll bar issue.
 
 ### Validator Testing
+-HTML files passed the [W3C Validator](https://validator.w3.org/) with no errors found.
+![W3C Message](/assets/images/read-me/html-validator.png)
+
+-HTML files passed the [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) with 16 errors found but these were from Bootstrap that i have used throughout the website.
+![Jigsaw Message](/assets/images/read-me/css-validator.png)
+
+-Website has an excellent Accessibility rating in Lighthouse.
+![Accessibility Score](/assets/images/read-me/lighthouse-score.png)
+
