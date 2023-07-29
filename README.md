@@ -59,3 +59,12 @@ This colour palette was used with the thought of colours to match the seaside wi
 
 ### Typography:
 Courgette Cursive was used for the main logo and the headings on each of the pages as it is a stylish and decorative font that has visually appealing qualities. Josefin Sans Normal is used for all over text as it is simple and delicate along with being easy to read.
+
+### Imagery:
+All of the imagery on the website was sourced from free stock photo platforms. The hero image on the home page was chosen so the user new this was a relaxing and warm location to go for a meal by the seaside. Each additional image added was to support the overall theme of the site, and to remind the user that the restaurant is all about a relaxed and warm atmosphere with good food.
+
+## Features
+
+### Existing Features
+#### Navigation Bar:
+The navigation bar is located on each of the 3 pages
