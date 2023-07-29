@@ -98,7 +98,11 @@ Below the menu hero image is the menu list with the main meals, each meal has an
 
 
 ### Future Features
-
+- Live chatbot.
+- Venue page for large parties/groups.
+- Interactive menu.
+- Event calender for special events.
+- Customer reviews section.
 
 ## Testing
 A horizontal scroll bar was appearing on the Menu and Contact page after changing hero images to fill the width of the screen and object-fit. After changing multiple attributes in the styles.css file i found that the div was spilling over slightly causing it to push out of the screen to the right. I fixed this issue by adding overflow-x:hidden; to the HTML and Body.
@@ -115,3 +119,5 @@ The form and map on the contact page appeared to be overlapping when in mobile v
 -Website has an excellent Accessibility rating in Lighthouse.
 ![Accessibility Score](/assets/images/read-me/lighthouse-score.png)
 
+-Tested the website works in Chrome, Brave & Edge without issues.
+-All links open to an external page as intended.
