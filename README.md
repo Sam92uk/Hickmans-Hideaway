@@ -82,7 +82,7 @@ Below the Hero image is a welcome message to greet the user and provide a more d
 
 ![Welcome Message](/assets/images/read-me/welcome-message.png)
 
-#### Menu Page
+#### Menu Page:
 The hero image is the first thing the user will see and it gives an idea of the standard and quality of the food. 
 
 ![Menu Hero Image](/assets/images/hero/menu.jpg)
@@ -91,10 +91,10 @@ Below the menu hero image is the menu list with the main meals, each meal has an
 
 ![Menu Items](/assets/images/read-me/menu-items.png)
 
-#### Contact Page
+#### Contact Page:
 
 
-#### Footer
+#### Footer:
 
 
 ### Future Features
@@ -110,14 +110,28 @@ A horizontal scroll bar was appearing on the Menu and Contact page after changin
 The form and map on the contact page appeared to be overlapping when in mobile view after making some changes to try and fix the issue with the horizontal scroll bar. This was resolved by adding the contact-column class back into the divs which was removed to see if that was causing the scroll bar issue.
 
 ### Validator Testing
--HTML files passed the [W3C Validator](https://validator.w3.org/) with no errors found.
+- HTML files passed the [W3C Validator](https://validator.w3.org/) with no errors found.
 ![W3C Message](/assets/images/read-me/html-validator.png)
 
--HTML files passed the [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) with 16 errors found but these were from Bootstrap that i have used throughout the website.
+- HTML files passed the [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) with 16 errors found but these were from Bootstrap that i have used throughout the website.
 ![Jigsaw Message](/assets/images/read-me/css-validator.png)
 
--Website has an excellent Accessibility rating in Lighthouse.
+- Website has an excellent Accessibility rating in Lighthouse.
 ![Accessibility Score](/assets/images/read-me/lighthouse-score.png)
 
--Tested the website works in Chrome, Brave & Edge without issues.
--All links open to an external page as intended.
+- Tested the website works in Chrome, Brave & Edge without issues.
+- All links open to an external page as intended.
+
+### Unfixed Bugs
+None found.
+
+## Technologies Used
+### Main Languages Used
+- HTML
+- CSS
+
+### Frameworks, Libraries & Programs Used
+- Bootstrap 4.5.3 was used to assit with the responsiveness and layout of the website.
+- Google Fonts was used for the font families: Courgette Cursive, Josefin Sans Normal. Sans sarif used as the default font.
+- GitHub used to store my repository.
+- Am I Responsive? was used to ensure all pages were responsive and looked good over all devices.
