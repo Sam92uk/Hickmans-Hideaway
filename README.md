@@ -55,6 +55,7 @@ Each page has a clear design with the information easily available to anyone who
 
 ### Colour Scheme:
 This colour palette was used with the thought of colours to match the seaside without feeling overwhelming. The main background & header colour is slate gray with federal blue text which mix well and do not overwhelm the user. The use of a subtle baby powder white was used when hovering over the nav links in the header and social links in the footer.
+
 ![Colour Palette](/assets/images/read-me/colour-palette.png)
 
 ### Typography:
@@ -67,4 +68,24 @@ All of the imagery on the website was sourced from free stock photo platforms. T
 
 ### Existing Features
 #### Navigation Bar:
-The navigation bar is located on each of the 3 pages
+The navigation bar is located on each of the 3 pages, and allows for easy navigation across the Home, Menu & Contact page. The page which the user is currently on will be underlined so they know which page they are on.
+
+![Navigation Bar](/assets/images/read-me/nav-bar.png)
+
+#### Home Page:
+The home page defines the overall feel of the website, and provides the user with an image that they can associate with the restaurant and it's location.
+
+![Home Hero Image](/assets/images/hero/home.jpg)
+
+Below the Hero image is a welcome message to greet the user and provide a more detailed description of the restaurant. This will allow the user to know what they have to look forward to when they book a table.
+
+![Welcome Message](/assets/images/read-me/welcome-message.png)
+
+#### Menu Page
+The hero image is the first thing the user will see and it gives an idea of the standard and quality of the food. 
+
+![Menu Hero Image](/assets/images/hero/menu.jpg)
+
+Below the menu hero image is the menu list with the main meals, each meal has an image for a visual representation along with a detailed description of what to expect.
+
+![Menu Items](/assets/images/read-me/menu-items.png)

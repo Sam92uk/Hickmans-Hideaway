@@ -212,6 +212,12 @@ footer {
     margin: 15px;
 }
 
+.menu-description > span {
+    font-size: 18px;
+    font-family: 'Courgette', cursive, sans-serif;
+    margin-top: 5px;
+}
+
 @media screen and (max-width: 1250px) {
     .menu-img {
         width: 150px;
