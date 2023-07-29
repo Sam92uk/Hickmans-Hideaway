@@ -135,3 +135,13 @@ None found.
 - Google Fonts was used for the font families: Courgette Cursive, Josefin Sans Normal. Sans sarif used as the default font.
 - GitHub used to store my repository.
 - Am I Responsive? was used to ensure all pages were responsive and looked good over all devices.
+
+## Deployment
+The site was deployed to GiHub pages. The steps to deploy are as follows:
+
+- In the GitHub repository, navigate to the Settings tab
+- Under the Code and automation heading, select Pages
+- From the Branch drop-down menu, select main
+- Once the main branch has been selected and saved, the page will refresh and display a message to indicate the successful deployment
+- The live link can be found [Here](https://sam92uk.github.io/Hickmans-Hideaway/index.html)
+
