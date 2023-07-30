@@ -101,7 +101,7 @@ The page then goes straight to a message showing that bookings are available wit
 ![Booking Form](/assets/images/read-me/form-map.png)
 
 #### Footer:
-The footer is consistant over all of the pages and has the address, opening times and social links included on them so the user is always reminded of what times the restaurant is open. 
+The footer is consistant over all of the pages and has the address, opening times and social links included on them so the user is always reminded of what times the restaurant is open, where it is located and can also check social links for some more iamges of the restaurant. 
 
 ![Footer](/assets/images/read-me/footer.png)
 
@@ -113,7 +113,7 @@ The footer is consistant over all of the pages and has the address, opening time
 - Customer reviews section.
 
 ## Testing
-A horizontal scroll bar was appearing on the Menu and Contact page after changing hero images to fill the width of the screen and object-fit. After changing multiple attributes in the styles.css file i found that the div was spilling over slightly causing it to push out of the screen to the right. I fixed this issue by adding overflow-x:hidden; to the HTML and Body.
+A horizontal scroll bar was appearing on the Menu and Contact page after changing hero images to fill the width of the screen and object-fit. After changing multiple attributes in the styles.css file i found that the div was spilling over slightly causing it to push out of the screen to the right. I found a fix for this on a forum called Squarespace which fixed the issue by adding overflow-x:hidden; to the HTML and Body.
 
 The form and map on the contact page appeared to be overlapping when in mobile view after making some changes to try and fix the issue with the horizontal scroll bar. This was resolved by adding the contact-column class back into the divs which was removed to see if that was causing the scroll bar issue.
 
@@ -143,6 +143,8 @@ None found.
 - Google Fonts was used for the font families: Courgette Cursive, Josefin Sans Normal. Sans sarif used as the default font.
 - GitHub used to store my repository.
 - Am I Responsive? was used to ensure all pages were responsive and looked good over all devices.
+- Code Anywhere was used to build my code before pushing to GitHub.
+- Balsamiq was used to create Wireframes of my website.
 
 ## Deployment
 The site was deployed to GiHub pages. The steps to deploy are as follows:
@@ -153,3 +155,14 @@ The site was deployed to GiHub pages. The steps to deploy are as follows:
 - Once the main branch has been selected and saved, the page will refresh and display a message to indicate the successful deployment
 - The live link can be found [Here](https://sam92uk.github.io/Hickmans-Hideaway/index.html)
 
+## Credit
+### Code
+- ![Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/): Bootstrap Library used throughout the project to keep the pages responsive and to help with the layout.
+
+### Content
+I took a lot of my inspiration from a previous website i had put together for a small course i did. I then adapted the content to suit my personal idea and implemented Bootstrap from the Mini Project in Code Institutes course to help get the layout exactly how i wanted it and to make the website responsive over all devices.
+
+When i ran into the issue of a horizontal bar on my Menu & Contact page i tried a multitude of changes to fix this issue but ultimatly turned to google where i found a fix on ![Squarespace](https://forum.squarespace.com/topic/165148-unwanted-vertical-white-stripe-on-the-right/).
+
+### Media
+- 
