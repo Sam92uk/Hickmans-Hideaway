@@ -2,7 +2,7 @@
 Hickman's Hideaway is a fictional family-owned restaurant located in the heart of a picturesque seaside town. Our mission is to provide a warm and inviting atmosphere where guests can savor delicious dishes made from locally sourced, fresh ingredients.
 The purpose of this website is to introduce visitors to our restaurant, showcase our menu, share our story, and provide a seamless online reservation experience.
 
-The Hickman's Hideaway site is currently live, the link can be found [Here](https://sam92uk.github.io/Hickmans-Hideaway/contact.html)
+The Hickman's Hideaway site is currently live, the link can be found [Here](https://sam92uk.github.io/Hickmans-Hideaway/index.html)
 
 ## Table of Contents
 + [UX](#ux "UX")
@@ -78,7 +78,7 @@ The home page defines the overall feel of the website, and provides the user wit
 
 ![Home Hero Image](/assets/images/hero/home.jpg)
 
-Below the Hero image is a welcome message to greet the user and provide a more detailed description of the restaurant. This will allow the user to know what they have to look forward to when they book a table.
+Below the hero image is a welcome message to greet the user and provide a more detailed description of the restaurant. This will allow the user to know what they have to look forward to when they book a table.
 
 ![Welcome Message](/assets/images/read-me/welcome-message.png)
 
@@ -92,10 +92,18 @@ Below the menu hero image is the menu list with the main meals, each meal has an
 ![Menu Items](/assets/images/read-me/menu-items.png)
 
 #### Contact Page:
+The contact page contains a hero image to follow consistency of the other pages and it has the warm welcoming feel to it so people know that they will booking somewhere nice. 
 
+![Contact Hero Image](/assets/images/hero/booking.jpg)
+
+The page then goes straight to a message showing that bookings are available with the contact number and email just below to encourage users to want to book. Just below this message will be a form for an online reservation and a google map showing the location and for a quick view of how far the user may need to travel. This encourages the user to stay on the website and not have to google themselves to find out the distance.
+
+![Booking Form](/assets/images/read-me/form-map.png)
 
 #### Footer:
+The footer is consistant over all of the pages and has the address, opening times and social links included on them so the user is always reminded of what times the restaurant is open. 
 
+![Footer](/assets/images/read-me/footer.png)
 
 ### Future Features
 - Live chatbot.
