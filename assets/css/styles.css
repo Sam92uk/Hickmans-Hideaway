@@ -297,6 +297,12 @@ form {
     color: #030567;
 }
 
+.map {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
 @media screen and (max-width: 715px) {
         .contact-column {
         width: 100%;
