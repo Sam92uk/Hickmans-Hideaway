@@ -26,7 +26,7 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
 + [Technologies Used](#technologies-used "Technologies Used")
   + [Main Languages Used](#main-languages-used "Main Languages Used")
 + [Deployment](#deployment "Deployment")
-+ [Credits](#credits "Credits")
++ [Credit](#credit "Credit")
   + [Content](#content "Content")
   + [Media](#media "Media")
 
