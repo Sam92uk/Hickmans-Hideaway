@@ -16,6 +16,7 @@ The Hickman's Hideaway site is currently live, the link can be found [Here](http
   + [Colour Scheme](#colour-scheme "Colour Scheme")
   + [Typography](#typography "Typography")
   + [Imagery](#imagery "Imagery")
++ [Wireframes](#wireframes "Wireframes")
 + [Features](#features "Features")
   + [Existing Features](#existing-features "Existing Features")
   + [Future Features](#future-features "Future Features")
@@ -63,6 +64,11 @@ Courgette Cursive was used for the main logo and the headings on each of the pag
 
 ### Imagery:
 All of the imagery on the website was sourced from free stock photo platforms. The hero image on the home page was chosen so the user new this was a relaxing and warm location to go for a meal by the seaside. Each additional image added was to support the overall theme of the site, and to remind the user that the restaurant is all about a relaxed and warm atmosphere with good food.
+
+## Wireframes
+- Home Page Wireframe ![Here](assets/images/read-me/home.pdf)
+- Menu Page Wireframe ![Here](assets/images/read-me/menu.pdf)
+- Contact Page Wireframe ! [Here](assets/images/read-me/contact.pdf)
 
 ## Features
 
